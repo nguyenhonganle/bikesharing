@@ -31,7 +31,7 @@ The information shows high action of bicycle sharing assistance in New York duri
 
 The most distant larger part of the rides were in the extremely bustling Manhattan Island, taken by male clients during morning and evening times of heavy traffic. This infers that Citi Bike administrations are utilized as an option in contrast to public transportation by driving laborers. 
 
-The extra examination would be advantageous by : 
+**The extra examination would be advantageous by : 
 
 contrasting information for various months with decided patterns across the year, 
 
